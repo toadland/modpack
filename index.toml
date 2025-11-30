@@ -107,6 +107,11 @@ hash = "5b786ab7a57e37ec4b8f888157f79608e871653fc4b6a8cba0296690fe863704"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "61ab7794e676f45410312efe39c2cc6edf5835f4d7fa5ab685be0c0e4b78f984"
 metafile = true
@@ -1086,6 +1091,11 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise-seven-seas.pw.toml"
 hash = "49daa837ab97ab95e582d7ca094f56e5b3a04bf00248bc86e50ee8874cea87af"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "08d4775f8546564ad812b09062633ffc48f44b76328efe3832c021651af86b14"
 metafile = true
 
 [[files]]
