@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/dusty-decorations.pw.toml"
-hash = "c5b36fe570fd4951ce41dbcdce69ef7162d282451ca84442f66715ec5b4b7a53"
+hash = "822023db84cbf3bbf8290a300d7a69072c270750f0bfb7895b679c6c37bcee11"
 metafile = true
 
 [[files]]
@@ -394,6 +394,14 @@ metafile = true
 file = "mods/exposure.pw.toml"
 hash = "c22010071589a36869a478fda1eae893adcc15fc9ab9996a195cc6f54333891b"
 metafile = true
+
+[[files]]
+file = "mods/fabric-api-0.116.7+1.21.1.jar"
+hash = "08018cc48c97415a38016a00dbd5a2c7a460ba6b7a051690a8cb3dbb5e8482a4"
+
+[[files]]
+file = "mods/fabricskyboxes-0.7.4+mc1.21.jar"
+hash = "2f5ac4450a5ba163946aa73fe84f989f99f0b216d7703a38bd9e75f630571efd"
 
 [[files]]
 file = "mods/fallingleavesforge.pw.toml"
@@ -571,11 +579,6 @@ hash = "dc537140fc5c6915e163363c037180061647f927ad5c88c8fbb26479a3cf6ac1"
 metafile = true
 
 [[files]]
-file = "mods/lodestone.pw.toml"
-hash = "8590e77951c4fb7c1ac4a52f8e1e0fa0103518b8c64ef3ae55ae654bfd6d2594"
-metafile = true
-
-[[files]]
 file = "mods/lodestonelib.pw.toml"
 hash = "3dce7f2be23f7a342547aa023d8b5bf0155849548f854c8692b14c160fbf7426"
 metafile = true
@@ -669,6 +672,10 @@ metafile = true
 file = "mods/octo-lib.pw.toml"
 hash = "a52c2b505827a549dfabebd6586591910fcf6e1a62dbb27604aacc96d412d5e4"
 metafile = true
+
+[[files]]
+file = "mods/optiboxes-1.4+mc1.21.1-9eba186.jar"
+hash = "226982c69dd795d62a316eca187bff91f388d1dbefb3eb684cdf561b22dd831d"
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
