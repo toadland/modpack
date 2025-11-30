@@ -1,0 +1,13 @@
+name = "[Let's Do] Brewery - Farm&Charm Compat"
+filename = "letsdo-brewery-neoforge-2.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/b7NV2plI/versions/NvlILR8d/letsdo-brewery-neoforge-2.1.5.jar"
+hash-format = "sha512"
+hash = "64c9004ecb08c54f609aea55b5ace42998dd373e079e7248e4400d2bdd68e4a92f9133b262470136a458c3fad51bf0d11530801c9d1c2c5319759a706021b945"
+
+[update]
+[update.modrinth]
+mod-id = "b7NV2plI"
+version = "NvlILR8d"

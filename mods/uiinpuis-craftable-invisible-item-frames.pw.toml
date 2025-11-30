@@ -1,0 +1,13 @@
+name = "Craftable Invisible Item Frames"
+filename = "uiinpuis-craftable-invisible-item-frames-V2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rxv67ZEp/versions/kH8vSrNS/uiinpuis-craftable-invisible-item-frames-V2.0.jar"
+hash-format = "sha512"
+hash = "0fb7475fab4bacd29ae609657a3607e7f47f17dd7361ed9b2eef5f921777da98f60805b6ef34391c556e1a9151bd73d1f42e8c9deb70dede822ef45d07938bec"
+
+[update]
+[update.modrinth]
+mod-id = "rxv67ZEp"
+version = "kH8vSrNS"

@@ -1,0 +1,13 @@
+name = "Explosion Overhaul"
+filename = "explosionoverhaul-neoforge-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SAez8T3s/versions/RmS9fbl3/explosionoverhaul-neoforge-1.1.0.jar"
+hash-format = "sha512"
+hash = "cba341362214aea46d2997566b9a4c9d7fac30226b2db11be2413ab9800b6c43e730871bb438503ed8d365b2ec93e7df869fb10617235c144a54169b9fd81f81"
+
+[update]
+[update.modrinth]
+mod-id = "SAez8T3s"
+version = "RmS9fbl3"

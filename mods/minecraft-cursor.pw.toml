@@ -1,0 +1,13 @@
+name = "Cursors Extended"
+filename = "minecraft-cursor-neoforge-3.11.2+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/o5fhgLeQ/versions/xbM5Ah9b/minecraft-cursor-neoforge-3.11.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "c51763cbddfbc2489ed7e210bd517b54e865f3ad0dae2d70a3f9f5440d62a4f4234cbddee69cca420b4d63dca9f1b57043278acbe397f424d1fc42412576ea9b"
+
+[update]
+[update.modrinth]
+mod-id = "o5fhgLeQ"
+version = "xbM5Ah9b"

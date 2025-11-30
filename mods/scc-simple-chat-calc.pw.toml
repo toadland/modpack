@@ -1,0 +1,13 @@
+name = "SCC: Simple Chat Calc"
+filename = "simple_chat_calc-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GiTka3nt/versions/xVHwJUWd/simple_chat_calc-1.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "fa2878e485bbc04112a185213753a5a071caeaac98690dba09b7a5989b3ca062ef3bf15c0e52fc49f1eefb53a80a8f7e4aceb18436094ac0932528b37524b374"
+
+[update]
+[update.modrinth]
+mod-id = "GiTka3nt"
+version = "xVHwJUWd"

@@ -1,0 +1,13 @@
+name = "Anim´s Bar"
+filename = "Anim´s Bar 1.2.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VJqSqn48/versions/Fqt4lvIk/Anim%C2%B4s%20Bar%201.2.1.zip"
+hash-format = "sha512"
+hash = "b978f39eddbfba6f50880bd7f22d2dda1cbac9ebde212642ee147e0b3c4b6793db16815342557c0c53ce5683b51d6b63716d5773e0f059c58edfbfb78a2189d7"
+
+[update]
+[update.modrinth]
+mod-id = "VJqSqn48"
+version = "Fqt4lvIk"

@@ -1,0 +1,13 @@
+name = "Ctrl Q"
+filename = "ctrl-q-neoforge-1.9.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Dxv5rpnB/versions/vPF3yZ8N/ctrl-q-neoforge-1.9.2.jar"
+hash-format = "sha512"
+hash = "6f17fbc483ba165539e4c0eee7264e04c2c46d7b494b5d6cc40727ab664305e04cba6f017c846785d2443cae0d81bc78d19c6c6aa0c9c4bd197bd2bf75a1cec1"
+
+[update]
+[update.modrinth]
+mod-id = "Dxv5rpnB"
+version = "vPF3yZ8N"

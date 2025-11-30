@@ -1,0 +1,13 @@
+name = "Mcdonald's Butcher"
+filename = "mcdonaldsbutcher.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2Qg6fH65/versions/HQlJXyAu/mcdonaldsbutcher.zip"
+hash-format = "sha512"
+hash = "923dd7b9eb095f992d264d5733dfeffe0ceca0c7989ba34ae27cafe42691ffb59da4c6ecb8bc999472ca164f23cb01d41ff1e59ea231251eb29ae7afbd8f9683"
+
+[update]
+[update.modrinth]
+mod-id = "2Qg6fH65"
+version = "HQlJXyAu"

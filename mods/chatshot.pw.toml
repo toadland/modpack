@@ -1,0 +1,13 @@
+name = "ChatShot"
+filename = "ChatShot (1.21.x-neoforge)-1.0.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/X2Zy7Oi6/versions/R1DlLOJ6/ChatShot%20%281.21.x-neoforge%29-1.0.4.jar"
+hash-format = "sha512"
+hash = "58ca44fe0ccf70bed57bea7b94834c5f35d5f15ece11d2758556ef63c7c944223990133d3d02459a886353cb8ed434e36da2952b77e339343b13109137cd8f99"
+
+[update]
+[update.modrinth]
+mod-id = "X2Zy7Oi6"
+version = "R1DlLOJ6"

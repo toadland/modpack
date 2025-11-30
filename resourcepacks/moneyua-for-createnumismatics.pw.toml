@@ -1,0 +1,13 @@
+name = "MoneyUa for Create:Numismatics"
+filename = "MoneyUa v1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/oDpCs7Om/versions/LL9U07Bo/MoneyUa%20v1.1.zip"
+hash-format = "sha512"
+hash = "4d3f77d0ec0405f98fbe82154992b12eb4a8e5bbaeaf930bb2eda2a0e16f9f62263fda3856471a41908e71e46cee718e007801f43a796fa4bcb6acaecf847ecc"
+
+[update]
+[update.modrinth]
+mod-id = "oDpCs7Om"
+version = "LL9U07Bo"
