@@ -1,6 +1,102 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/betterf3.toml"
+hash = "35448e673443c32dac48801b76cea2f1f34b3d27f91951f5039d5add3af28ec2"
+
+[[files]]
+file = "config/modpack_defaults/config/accessories.json5"
+hash = "ff022e02369fe7d87db4eda00e38ea723e9867b200cb2f56bc25cec5db1d58c7"
+
+[[files]]
+file = "config/modpack_defaults/config/blur.json"
+hash = "b75e34c1d5616c22c1b373ccf8eb765734f134c2812cb6e05e6ef7ab07dc0d32"
+
+[[files]]
+file = "config/modpack_defaults/config/carryon-common.toml"
+hash = "cae55037c4c925457f68c96cb4fe0c0ceaf91a55a22f562d70a0036ad39acc00"
+
+[[files]]
+file = "config/modpack_defaults/config/chloride-client.json"
+hash = "c1a9563123aafedf74a803b896e157c20b00820cc98db08af8ec52ed5ad77d98"
+
+[[files]]
+file = "config/modpack_defaults/config/chunksfadein.properties"
+hash = "040d85d742d305ac089141a4e478e975fa0ca428eadf9955bc986dda398704ce"
+
+[[files]]
+file = "config/modpack_defaults/config/clickthrough.json"
+hash = "fa77382569bcc6a93a4b38f7f63a4de7de17acefada9cd774b3b3442dc8bae34"
+
+[[files]]
+file = "config/modpack_defaults/config/coldsweat/client.toml"
+hash = "157578df7a873aeec8543ef8ecbba5dbd07b368edcd99326677eaa79bdc1f156"
+
+[[files]]
+file = "config/modpack_defaults/config/entityculling.json"
+hash = "07ccfa8d4edc6928ec566ce42a16d234436ee678b5ddc258431abf265f4f46f7"
+
+[[files]]
+file = "config/modpack_defaults/config/immersive_paintings/client_config.toml"
+hash = "a2f833b23c9edccd68dc2455ead4ddc9948cc4240eeeb2b99f29b31260d05af2"
+
+[[files]]
+file = "config/modpack_defaults/config/kiwi-client.yaml"
+hash = "191c6a8658443ebddf81900365d0a56e78a58f26a9596e1474486be497bdf492"
+
+[[files]]
+file = "config/modpack_defaults/config/sodium-options.json"
+hash = "00c7dd465e12693baeb0f9844848eb087f627d98827df51111b080af462d7d73"
+
+[[files]]
+file = "config/modpack_defaults/config/sodiumdynamiclights-client.toml"
+hash = "447d4987122280f99f64a20b12c24be97d65cba431b57ea6fae9ce44765934a5"
+
+[[files]]
+file = "config/modpack_defaults/config/sound_physics_remastered/soundphysics.properties"
+hash = "0fc90bbf9ecd4ad40c19bc53ebe8ed024a444f82664903c88e15096154d2ec95"
+
+[[files]]
+file = "config/modpack_defaults/config/tectonic.json"
+hash = "32e3c357b7a9d26a47d2c52ed8308692ec8d9ac5a41690e1bd30f63b337a8ad2"
+
+[[files]]
+file = "config/modpack_defaults/config/voicechat/voicechat-client.properties"
+hash = "6330df84649cddd573e5092b188d223f73ceb2ce8e836b898b5815d91bdb7bae"
+
+[[files]]
+file = "config/modpack_defaults/config/xaerominimap.txt"
+hash = "9c51f6c5ea999c0258b85df56bce140bc6428c475cda7ee18b0ae198d0f3dd15"
+
+[[files]]
+file = "config/modpack_defaults/options.txt"
+hash = "e2eb44f94b7f88e2ae3b72bb7472a3cf939aa3e99df22fe81e15a62cdbbf225c"
+
+[[files]]
+file = "config/simplemenu.json5"
+hash = "2d20d078d8a4c2f06dbb4e685b028c10270f39545497b3cfa578b22c590fa8aa"
+
+[[files]]
+file = "config/simplemenu/background/background.png"
+hash = "61db6a57c1b16aba12f18fd63b03f57ed1af40f584b8da1d5af21a6ec3da3935"
+
+[[files]]
+file = "config/simplemenu/icon/icon_16x16.png"
+hash = "e52d23c313dcb9d60b1061c635205213cb8d072061b7f17a92d2e7a7e40753e1"
+
+[[files]]
+file = "config/simplemenu/icon/icon_32x32.png"
+hash = "fc19da09e10cbb309ce359a21aa8748568b664e65c2b358a7efeb87529761ba5"
+
+[[files]]
+file = "config/simplemenu/logo/edition.png"
+hash = "2133bbe9b11fd209348bebe92c2dfa7c6ffd634ad98f52dac1ec852f9a66192a"
+
+[[files]]
+file = "config/simplemenu/logo/logo.png"
+hash = "9b9d0e609acafcd55c471e333d0805e95447e850c61d88aacd7e07f0cd8b2efa"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "7b5fba1b2499c191160be6b1b01c54ace077ae7d3c5228ae4af4d360e3d0a336"
 metafile = true
@@ -178,6 +274,16 @@ metafile = true
 [[files]]
 file = "mods/cold-sweat.pw.toml"
 hash = "2f948eb98938e77617a8b46d908cf424286f49604fe375a551d566e645cbd278"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "cde21d14fcaf9495f0f5b3d8fb298dd60cb12badc21a27414c25ebf11dfb3fe1"
+metafile = true
+
+[[files]]
+file = "mods/configmanager.pw.toml"
+hash = "d8457369ac51d51d18e7bed4f343de6af4c4d633d9b320a26b3d0342897b2399"
 metafile = true
 
 [[files]]
@@ -793,6 +899,11 @@ hash = "85e4be7fb8dd729d264ae48c3546882efe2cfe6677ee2720bb8a50069fee2c6d"
 metafile = true
 
 [[files]]
+file = "mods/simple-menu.pw.toml"
+hash = "86507d84f9c4de051c1ed0575b6831b5a940e58913b81129cb421b5616ca63ae"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "82fa5e74cae0b3f0199f9822f62a976da2dc6ee03deb543d537ce55d36b11fcb"
 metafile = true
@@ -1048,6 +1159,10 @@ hash = "417f2ce9f6018e0ce5b548c4e3212abe3d74878654dd2a8a057d54c334d5b188"
 metafile = true
 
 [[files]]
+file = "resourcepacks/ToadLand - Icons Fix.zip"
+hash = "a62f56d9e9db824336c6bf6c59cefe33dedc02f48ef4fb9a566a8a2757018452"
+
+[[files]]
 file = "resourcepacks/animated-items.pw.toml"
 hash = "ba5dcd71dd9e075a20e0229edf807bcf14e54b62b7624fd47397dae6b7369787"
 metafile = true
@@ -1093,8 +1208,8 @@ hash = "42b8a59616b3ed15a02e55466dff7ab400d481a8730949ce0168a927b71b91fb"
 metafile = true
 
 [[files]]
-file = "resourcepacks/icons-advertisement-removal.pw.toml"
-hash = "acd0132e2833554b79bceb4d733d36242f8967b2ddf32088dfadde17d524e130"
+file = "resourcepacks/icons-armor-food-remover.pw.toml"
+hash = "9f82179ee6ffb226abdc40a3527a67f65950ae4f5f03e2a70fba87118add70aa"
 metafile = true
 
 [[files]]
@@ -1140,6 +1255,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/simple-grass-flowers.pw.toml"
 hash = "bc4dcbd6b77adb2180049d63ed4a8981553f06dbf3e32080022ffd87dd1fb09b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "2c855e3e738015350120fc4bc04a59c56e664b751cb94145f037f1ebf67d33c5"
 metafile = true
 
 [[files]]

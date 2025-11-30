@@ -1,0 +1,17 @@
+general = {disable_mod = false, hide_bossbar = true, shadow_text = true, auto_start = false, animationSpeed = 1.0, always_show_ping = false, hide_debug_crosshair = true, background_color = 1867534416, space_modules = false, always_show_profiler = false, animations = true, fontScale = 1.0, hide_sidebar = true, always_show_tps = false}
+modules_right = []
+[[modules_left]]
+	color_high = 9220969
+	color_med = 16048773
+	name = "fps"
+	lines = {fps = true}
+	enabled = true
+	color_low = 12340049
+[[modules_left]]
+	color_x = 12340049
+	color_y = 9220969
+	color_z = 6000253
+	name = "coords"
+	name_color = 12340049
+	lines = {chunk_coords = false, player_coords = true, block_coords = false, absolute_velocity = false, velocity = false, chunk_relative_coords = false, horizontal_velocity = false}
+	enabled = true
