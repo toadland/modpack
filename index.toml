@@ -70,7 +70,7 @@ hash = "9c51f6c5ea999c0258b85df56bce140bc6428c475cda7ee18b0ae198d0f3dd15"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "e2eb44f94b7f88e2ae3b72bb7472a3cf939aa3e99df22fe81e15a62cdbbf225c"
+hash = "d31fb07c7f19ed302427a3c41be2dc81689b544dfc56f590480b7ee6d5a523d0"
 
 [[files]]
 file = "config/simplemenu.json5"
@@ -505,10 +505,6 @@ metafile = true
 file = "mods/exposure.pw.toml"
 hash = "c22010071589a36869a478fda1eae893adcc15fc9ab9996a195cc6f54333891b"
 metafile = true
-
-[[files]]
-file = "mods/fabric-api-0.116.7+1.21.1.jar"
-hash = "08018cc48c97415a38016a00dbd5a2c7a460ba6b7a051690a8cb3dbb5e8482a4"
 
 [[files]]
 file = "mods/fabricskyboxes-0.7.4+mc1.21.jar"
@@ -1291,6 +1287,10 @@ metafile = true
 file = "resourcepacks/xalis-potions.pw.toml"
 hash = "6f8354eccf8e90939f5494fe8c29fc114025f2f8f4e5a4fe7ed66ce00a882f28"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "fba545f5c0f0f87f432ec9a5ea44198808a9a3a2d1f07a4199af7a8ec999fa45"
 
 [[files]]
 file = "shaderpacks/bliss-shader.pw.toml"
