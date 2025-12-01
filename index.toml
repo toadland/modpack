@@ -1,12 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/betterf3.toml"
-hash = "35448e673443c32dac48801b76cea2f1f34b3d27f91951f5039d5add3af28ec2"
-
-[[files]]
 file = "config/modpack_defaults/config/accessories.json5"
 hash = "ff022e02369fe7d87db4eda00e38ea723e9867b200cb2f56bc25cec5db1d58c7"
+
+[[files]]
+file = "config/modpack_defaults/config/betterf3.toml"
+hash = "35448e673443c32dac48801b76cea2f1f34b3d27f91951f5039d5add3af28ec2"
 
 [[files]]
 file = "config/modpack_defaults/config/blur.json"
@@ -45,6 +45,30 @@ file = "config/modpack_defaults/config/kiwi-client.yaml"
 hash = "191c6a8658443ebddf81900365d0a56e78a58f26a9596e1474486be497bdf492"
 
 [[files]]
+file = "config/modpack_defaults/config/simplemenu.json5"
+hash = "2d20d078d8a4c2f06dbb4e685b028c10270f39545497b3cfa578b22c590fa8aa"
+
+[[files]]
+file = "config/modpack_defaults/config/simplemenu/background/background.png"
+hash = "61db6a57c1b16aba12f18fd63b03f57ed1af40f584b8da1d5af21a6ec3da3935"
+
+[[files]]
+file = "config/modpack_defaults/config/simplemenu/icon/icon_16x16.png"
+hash = "e52d23c313dcb9d60b1061c635205213cb8d072061b7f17a92d2e7a7e40753e1"
+
+[[files]]
+file = "config/modpack_defaults/config/simplemenu/icon/icon_32x32.png"
+hash = "fc19da09e10cbb309ce359a21aa8748568b664e65c2b358a7efeb87529761ba5"
+
+[[files]]
+file = "config/modpack_defaults/config/simplemenu/logo/edition.png"
+hash = "2133bbe9b11fd209348bebe92c2dfa7c6ffd634ad98f52dac1ec852f9a66192a"
+
+[[files]]
+file = "config/modpack_defaults/config/simplemenu/logo/logo.png"
+hash = "9b9d0e609acafcd55c471e333d0805e95447e850c61d88aacd7e07f0cd8b2efa"
+
+[[files]]
 file = "config/modpack_defaults/config/sodium-options.json"
 hash = "00c7dd465e12693baeb0f9844848eb087f627d98827df51111b080af462d7d73"
 
@@ -71,30 +95,6 @@ hash = "9c51f6c5ea999c0258b85df56bce140bc6428c475cda7ee18b0ae198d0f3dd15"
 [[files]]
 file = "config/modpack_defaults/options.txt"
 hash = "d31fb07c7f19ed302427a3c41be2dc81689b544dfc56f590480b7ee6d5a523d0"
-
-[[files]]
-file = "config/simplemenu.json5"
-hash = "2d20d078d8a4c2f06dbb4e685b028c10270f39545497b3cfa578b22c590fa8aa"
-
-[[files]]
-file = "config/simplemenu/background/background.png"
-hash = "61db6a57c1b16aba12f18fd63b03f57ed1af40f584b8da1d5af21a6ec3da3935"
-
-[[files]]
-file = "config/simplemenu/icon/icon_16x16.png"
-hash = "e52d23c313dcb9d60b1061c635205213cb8d072061b7f17a92d2e7a7e40753e1"
-
-[[files]]
-file = "config/simplemenu/icon/icon_32x32.png"
-hash = "fc19da09e10cbb309ce359a21aa8748568b664e65c2b358a7efeb87529761ba5"
-
-[[files]]
-file = "config/simplemenu/logo/edition.png"
-hash = "2133bbe9b11fd209348bebe92c2dfa7c6ffd634ad98f52dac1ec852f9a66192a"
-
-[[files]]
-file = "config/simplemenu/logo/logo.png"
-hash = "9b9d0e609acafcd55c471e333d0805e95447e850c61d88aacd7e07f0cd8b2efa"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
