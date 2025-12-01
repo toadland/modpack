@@ -94,7 +94,7 @@ hash = "9c51f6c5ea999c0258b85df56bce140bc6428c475cda7ee18b0ae198d0f3dd15"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "d31fb07c7f19ed302427a3c41be2dc81689b544dfc56f590480b7ee6d5a523d0"
+hash = "6bee7371cced6d932f42e4b402027737ab416b11bf204a1f1851cc9d902ae0e6"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -1221,16 +1221,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/icons.pw.toml"
 hash = "0f1f0274bd042b888a470955154102e0d540396e5b3af341d050f05253fdcc3f"
-metafile = true
-
-[[files]]
-file = "resourcepacks/low-on-fire.pw.toml"
-hash = "347564c7db8830d5595e0c6cc3b7c4bb9d040cfd09272d672a969200cb24d3d0"
-metafile = true
-
-[[files]]
-file = "resourcepacks/low-shield-pack.pw.toml"
-hash = "bc1e67272ddbad2d6b9d3ef3040997bbcfc782dae92dbf27c34934b482ee9142"
 metafile = true
 
 [[files]]
